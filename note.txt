@@ -1,4 +1,11 @@
 đẩy source
+
+đẩy lần đầu
 git add -A
 git commit -m "crate home page"
 git push -u origin master
+
+đẩy lần 2
+git add -A
+git commit -m "crate home page"
+git push 
